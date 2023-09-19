@@ -36,3 +36,4 @@
      ● Concatenating “00000000” and Expiry date(twice) to get a 16 digit number.
      ● Applying bitwise XOR operation to the Credit card number and the above concatenated string.
      ● Applying circular left rotation to get the token vault value and append it into the output file so as to map our dataset and establish the link
+
